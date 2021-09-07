@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weather-box/static/css/main.2af152e4.chunk.css",
-    "main.js": "/weather-box/static/js/main.5c08c513.chunk.js",
-    "main.js.map": "/weather-box/static/js/main.5c08c513.chunk.js.map",
+    "main.js": "/weather-box/static/js/main.957c1f19.chunk.js",
+    "main.js.map": "/weather-box/static/js/main.957c1f19.chunk.js.map",
     "runtime-main.js": "/weather-box/static/js/runtime-main.911b4cc2.js",
     "runtime-main.js.map": "/weather-box/static/js/runtime-main.911b4cc2.js.map",
     "static/js/2.85c01f33.chunk.js": "/weather-box/static/js/2.85c01f33.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/day-partially-clear-with-rain.6afe993a.svg": "/weather-box/static/media/day-partially-clear-with-rain.6afe993a.svg",
     "static/media/day-snowing.ba1cbc76.svg": "/weather-box/static/media/day-snowing.ba1cbc76.svg",
     "static/media/day-thunderstorm.c1e5aabc.svg": "/weather-box/static/media/day-thunderstorm.c1e5aabc.svg",
+    "static/media/humid.ae586d9e.svg": "/weather-box/static/media/humid.ae586d9e.svg",
     "static/media/loading.f8d56fd5.svg": "/weather-box/static/media/loading.f8d56fd5.svg",
     "static/media/night-clear.94eb7d67.svg": "/weather-box/static/media/night-clear.94eb7d67.svg",
     "static/media/night-cloudy-fog.61304642.svg": "/weather-box/static/media/night-cloudy-fog.61304642.svg",
@@ -34,6 +35,6 @@
     "static/js/runtime-main.911b4cc2.js",
     "static/js/2.85c01f33.chunk.js",
     "static/css/main.2af152e4.chunk.css",
-    "static/js/main.5c08c513.chunk.js"
+    "static/js/main.957c1f19.chunk.js"
   ]
 }
